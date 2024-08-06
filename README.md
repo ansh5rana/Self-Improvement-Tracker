@@ -1,6 +1,6 @@
 # Self-Improvement-Tracker
 
-This project is an innovative self-improvement tracker designed to help users monitor their daily activities, set and achieve long-term goals, and generate insightful reports to foster personal growth. The application leverages cutting-edge technologies in the field of artificial intelligence and natural language processing to provide a personalized self-improvement experience.
+Inspired by my daily commitment to being the best version of myself, this project is an innovative self-improvement tracker designed to help users monitor their daily activities, set and achieve long-term goals, and generate insightful reports to foster personal growth. The application leverages cutting-edge technologies in the field of artificial intelligence and natural language processing to provide a personalized self-improvement experience.
 
 Users can input their daily activities, challenges faced, and positive moments through an intuitive interface. The tracker then utilizes this information to generate comprehensive reports that not only summarize the user's day but also offer tailored insights and encouragement. A separate page allows users to define and update their long-term goals, which are seamlessly integrated into the personalized advice provided in the reports. The application also features a dedicated page where users can review their past reports, enabling them to track their progress and see how the tracker has positively impacted their journey towards self-improvement.
 
